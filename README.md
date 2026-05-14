@@ -1,4 +1,4 @@
-# qiaomu-heavyskill · Heavy Think
+# heavy-think
 
 > 多 Agent 并行深度分析 Claude Code Skill
 
